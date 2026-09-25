@@ -1,5 +1,0 @@
-# Project snapshot
-
-Builder:
-Date:
-Question I am exploring:
