@@ -6,7 +6,7 @@ Build in public works best when people can be candid about uncertainty. We welco
 
 ## Expected behavior
 
-- Be curious before being certain.
+- Be curious before being certain..
 - Critique ideas and evidence, not people.
 - Explain the reasoning behind suggestions.
 - Credit other people's work and context.
